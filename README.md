@@ -1,7 +1,9 @@
 # hello-world
 
-Hi Everyone!
+package main
 
-Ryan here, Im studying Computer Science!
+import "fmt"
 
-Im interested in Coding, Cyber Security, Blockchain and Crypography!
+func main() {
+	fmt.Println("Hello World!")
+}
